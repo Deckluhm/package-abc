@@ -3,7 +3,8 @@
     "z",
     {
       "name": "main",
-      "prerelease": true
+      "channel": "beta",
+      "prerelease": "beta"
     }
   ]
 }

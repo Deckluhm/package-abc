@@ -1,6 +1,7 @@
 {
-  "name": "package-abc",
+  "name": "package-123",
   "version": "0.1.0",
+  "license": "MIT",
   "module": "index.ts",
   "type": "module",
   "scripts": {
