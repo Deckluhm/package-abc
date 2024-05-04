@@ -1,6 +1,6 @@
 {
   "branches": [
-    "z-empty",
+    "z",
     {
       "name": "main",
       "prerelease": true
