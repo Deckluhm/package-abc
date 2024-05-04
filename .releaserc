@@ -1,0 +1,9 @@
+{
+  "branches": [
+    "z-empty",
+    {
+      "name": "main",
+      "prerelease": true
+    }
+  ]
+}

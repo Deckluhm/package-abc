@@ -1,0 +1,19 @@
+{
+  "name": "package-abc",
+  "version": "0.1.0",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "prepublishOnly": "bun build index.ts --outdir dist"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "semantic-release": "^23.0.8"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "dist"
+  ]
+}
