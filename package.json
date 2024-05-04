@@ -1,5 +1,5 @@
 {
-  "name": "package-123",
+  "name": "@deckluhm/package-123",
   "version": "0.1.0",
   "license": "MIT",
   "module": "index.ts",
